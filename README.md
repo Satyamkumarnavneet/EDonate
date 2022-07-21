@@ -35,7 +35,7 @@ Install my-project: https://drive.google.com/drive/folders/13iSyFNYTATmBOvURSsbl
 Clone the project
 
 ```bash
-  git clone https://github.com/Satyamkumarnavneet/Payment-Gateway-Integration
+  git clone https://github.com/Satyamkumarnavneet/Payment-Gateway-Integration.git
 ```
 
 

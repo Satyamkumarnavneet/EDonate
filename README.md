@@ -1,7 +1,15 @@
 
 # Payment-Gateway-Integration
 
-Payment Gateway Integration. Built using Razorpay payment gateway.
+EDonate is an online platform that allows donors to make donations to various charitable organizations and causes. To facilitate these donations, EDonate requires a payment gateway integration to securely process online transactions.
+
+For this purpose, Razorpay is used as the payment gateway of choice for EDonate. Razorpay is a leading payment gateway provider in India, and offers a secure and reliable platform for processing online payments.
+
+The integration of Razorpay with EDonate involves setting up a merchant account with Razorpay and configuring the payment gateway to work seamlessly with the EDonate platform. Once the integration is complete, donors can make payments through various modes such as credit/debit cards, net banking, UPI, and other popular payment methods.
+
+To ensure security and reliability, Razorpay uses industry-standard encryption and security protocols to protect donor data and prevent fraudulent transactions. Additionally, Razorpay provides a user-friendly dashboard that allows EDonate administrators to monitor and manage transactions in real-time.
+
+Overall, the integration of Razorpay with EDonate provides a seamless and secure payment experience for donors, while allowing charitable organizations to easily receive donations and further their causes.
 
 ## Badges
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
